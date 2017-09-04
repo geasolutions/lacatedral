@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="F:\wamp64\www\proyectos_mobi\geasolutions\gea17.clpprj">
+	<settings><PM_URL><![CDATA[F:/wamp64/www/proyectos_mobi/geasolutions/]]></PM_URL><PM_HOME_URL><![CDATA[F:/wamp64/www/proyectos_mobi/geasolutions/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><codestructure>
+		<phptree>
+		</phptree>
+		<jstree>
+		</jstree>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\gea17.clpprj" crc="316510601"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\web\assets\jquery\jquery.min.js" crc="-2112857745"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\viewportChecker\jquery.viewportchecker.js" crc="495923531"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\touchSwipe\jquery.touchSwipe.min.js" crc="-1839792986"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\theme\js\script.js" crc="189709167"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\tether\tether.min.js" crc="-2041493622"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\smooth-scroll\SmoothScroll.js" crc="1675039070"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\jarallax\jarallax.js" crc="-1104033458"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\dropdown\js\script.min.js" crc="1407835465"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\bootstrap-material-design-font\fonts\LICENSE.txt" crc="-1533578188"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\bootstrap-carousel-swipe\bootstrap-carousel-swipe.js" crc="528362017"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\assets\bootstrap\js\bootstrap.min.js" crc="892536352"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\somos.html" crc="2144771835"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\servicios1.html" crc="-1138059993"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\productos.html" crc="1709495413"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\principal-gea.html" crc="-1352152419"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\page1.html" crc="725980480"/>
+		<file name="F:\wamp64\www\proyectos_mobi\geasolutions\index.html" crc="453507792"/>
+	</codestructure></project>
